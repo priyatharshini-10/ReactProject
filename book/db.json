@@ -1,0 +1,25 @@
+{
+  "Users":[
+      {
+          "firstname":"Kiruthika",
+          "lastname":"U",
+          "emailaddress":"kiruthu@123",
+          "password":"k_2004",
+          "id":1
+      },
+      {
+          "firstname":"Kanishka",
+          "lastname":"S",
+          "emailaddress":"kanishka@78",
+          "password":"kanishsambath",
+          "id":2
+      },
+      {
+          "firstname":"Priya",
+          "lastname":"S.S",
+          "emailaddress":"priya@345",
+          "password":"2055_start",
+          "id":3
+      }
+  ]
+}
